@@ -9,3 +9,4 @@ $pip2 install mechanize
 $git clone https://github.com/WopeHoe/anonymousFb
 $cd anonymousFb
 $ls
+$python2 anonymousFb.py
